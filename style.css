@@ -2,5 +2,22 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 h1{
-    font-size: 50px;
+    font-size: 60px;
+    margin-left: 40px;
+}
+.orange-color{
+    color: orange;
+}
+h2{
+    margin-left: 40px;
+ 
+}
+p{
+    margin-left: 40px;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-size-adjust: 2px;
+}
+img{
+    align-items: right;
 }
