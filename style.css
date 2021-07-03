@@ -55,7 +55,7 @@ h1 {
 .experience-area {
   background-image: url(images/exp-bg.png);
   background-repeat: no-repeat;
-  background-position:left;
+  background-position: left;
   padding-left: 30px;
 }
 .experience-item {
@@ -69,4 +69,14 @@ h1 {
   -moz-border-radius: 10px;
   -ms-border-radius: 10px;
   -o-border-radius: 10px;
+  border-left: 5px solid rgb(241, 82, 9);
+}
+#web-dev {
+  border-left: 5px solid rgb(241, 82, 9);
+  border-image: linear-gradient(rgb(16, 16, 202), orange);
+  border-image-slice: 1;
+}
+footer {
+  text-align: center;
+  color: orange;
 }
